@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://127.0.0.1/ios/ticket.ipa</string>
+					<string>http://192.168.199.208/ios/ticket.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://127.0.0.1/ios/ticket57</string>
+					<string>http://192.168.199.208/ios/ticket57</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://127.0.0.1/ios/ticket512</string>
+					<string>http://192.168.199.208/ios/ticket512</string>
 				</dict>
 			</array>
 			<key>metadata</key>
