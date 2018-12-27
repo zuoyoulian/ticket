@@ -4,6 +4,6 @@
             "name"    : "游票",
             "bundle-version" : 1.2,
             "build-version" : 0,
-            "download-url"  : "http://192.168.199.208/ios/ticket.ipa"
+            "download-url"  : "https://raw.githubusercontent.com/tc976562936/ticket/master/manifest.plist"
     }
 }
