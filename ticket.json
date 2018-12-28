@@ -4,6 +4,7 @@
             "name"    : "游票",
             "bundle-version" : 1.2,
             "build-version" : 0,
+            "updateContent" : "增加门票使用详情页",
             "download-url"  : "https://raw.githubusercontent.com/tc976562936/ticket/master/manifest.plist"
     }
 }
