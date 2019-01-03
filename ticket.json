@@ -4,7 +4,7 @@
             "name"    : "游票",
             "bundle-version" : 1.2,
             "build-version" : 1,
-            "updateContent" : "1.增加门票使用详情页；2.增加公告详情页;3.个人主页帐号保密;4.去除地址管理。",
+            "updateContent" : "1.增加门票使用详情页；\n2.增加公告详情页;\n3.个人主页帐号保密;\n4.去除地址管理。",
             "download-url"  : "https://raw.githubusercontent.com/tc976562936/ticket/master/manifest.plist"
     }
 }
