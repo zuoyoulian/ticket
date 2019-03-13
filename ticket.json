@@ -2,9 +2,9 @@
     "data":{
     
             "name"    : "游票",
-            "bundle-version" : 1.4,
+            "bundle-version" : 1.6,
             "build-version" : 1,
-            "updateContent" : "1.邀请送票功能开放；\n2.会员注册滑落功能更改；\n3.分享邀请页面美化；\n4.收钱码美化。",
+            "updateContent" : "新制度更新。",
             "download-url"  : "https://raw.githubusercontent.com/tc976562936/ticket/master/manifest.plist"
     }
 }
