@@ -2,7 +2,7 @@
     "data":{
     
             "name"    : "游票",
-            "bundle-version" : 1.6,
+            "bundle-version" : 1.7,
             "build-version" : 1,
             "updateContent" : "新制度更新。",
             "download-url"  : "https://raw.githubusercontent.com/tc976562936/ticket/master/manifest.plist"
