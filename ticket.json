@@ -5,6 +5,6 @@
             "bundle-version" : 1.8,
             "build-version" : 1,
             "updateContent" : "1.非会员可以进入交易大厅买游票。2.发布信息联系电话填写,购买者查看联系电话.3.购买激活码使用微信或支付宝二维码收款。4.去掉个人信息邀请人电话显示。5.修复 ios固定锁仓状态BUG",
-            "download-url"  : "https://gitee.com/ll-ios/youpiao/blob/master/manifest.plist"
+            "download-url"  : "https://gitee.com/ll-ios/youpiao/raw/master/manifest.plist"
     }
 }
