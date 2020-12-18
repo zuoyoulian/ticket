@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>http://132.232.157.23:8086/img/download/ios/ticket.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/ticket57.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://132.232.157.23:8086/img/download/ios/ticket512.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
